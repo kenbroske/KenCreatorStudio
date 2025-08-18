@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ken Creator Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header / Navigation -->
+  <header>
+    <h1>Ken Creator Studio</h1>
+    <nav>
+      <a href="#hero">Home</a>
+      <a href="#hog">HOG</a>
+      <a href="#selfcare">Self Care</a>
+      <a href="#selena">Selena</a>
+      <a href="#footer">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <h2>Building Myself. Building Worlds. Sharing Knowledge.</h2>
+    <p>Welcome to Ken Creator Studio — your sandbox for creativity and ideas.</p>
+  </section>
+
+  <!-- HOG Section -->
+  <section id="hog">
+    <h2>Hero of Gods Universe</h2>
+    <p>Character bios, powers, and game dev concepts go here.</p>
+  </section>
+
+  <!-- Self Care Section -->
+  <section id="selfcare">
+    <h2>Self Care & Improvement</h2>
+    <p>Fitness routines, Trim Strategy, hair growth logs, and self-improvement tips.</p>
+  </section>
+
+  <!-- Selena Section -->
+  <section id="selena">
+    <h2>Selena — Your Guide</h2>
+    <p>Tips, mini Q&A, and interactive guides for coding, game dev, and website building.</p>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <p>Socials: YouTube | Instagram | TikTok</p>
+    <p>&copy; 2025 Ken Creator Studio</p>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
